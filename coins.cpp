@@ -21,6 +21,5 @@ int main() {
 	while(cin >> N) {
 		cout << findMax(N, memo) << "\n";
 	}
-	system("pause");
 	return 0;
 }
